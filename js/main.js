@@ -1,7 +1,6 @@
 /*
 	WEB 303 Assignment 2 - AJAX
 	Justin Brierley
-	W0724299
 */
 $(document).ready(function() {
     $('#retain').on('click', function(){
