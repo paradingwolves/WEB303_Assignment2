@@ -1,0 +1,8 @@
+[
+    {"firstName":"Ricky", "lastName":"Lafleur", "age":51, "occupation":"recidivist", "Lucy": "yes"},
+    {"firstName":"Julian", "lastName":"Swayze", "age":54, "occupation":"recidivist", "Lucy": "yes"},
+    {"firstName":"Ray", "lastName":"Flower", "age":70, "occupation":"gambling", "Lucy": "yes"},
+    {"firstName":"Jamie", "lastName":"J-Roc", "age":50, "occupation":"rapper", "Lucy": "no"},
+    {"firstName":"Jim", "lastName":"Lahey", "age":71, "occupation":"Trailer Park Supervisor", "Lucy": "no"},
+    {"firstName":"Randy", "lastName":"Bo-Bandy", "age":52, "occupation":"Assistant Trailer Park Supervisor", "Lucy": "yes"}
+]
