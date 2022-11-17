@@ -1,0 +1,27 @@
+body {
+    background-color: lightgreen;
+}
+h1 {
+    text-align: center;
+    color: yellow
+}
+table {
+    width: 50%;
+    margin: 0 auto;
+    background-color: navajowhite;
+    border: 3px solid black;
+    text-align: center;
+}
+td {
+    border-top: 2px solid black;
+    border-right: 2px solid black
+}
+input {
+    margin:0 0 2% 65%;
+}
+button {
+    margin-top: 2%;
+}
+button:first-of-type {
+    margin-left: 25%
+}

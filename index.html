@@ -1,0 +1,45 @@
+<!-- 
+    Program Author: Justin Brierley
+    Program Name: Assignment 8
+    Date: 2022-11-17
+    Purpose: Load character data into table using JSON/Ajax
+    with a search filter
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+    <title>Justin Brierley Assignment 8</title>
+</head>
+
+<body>
+    <h1>Justin Brierley - Trailer Park Boys</h1>
+    <main>
+        <table id="characters">
+            <div id="search">
+                <input type="text" placeholder="Search for Character" id="filter-search"/>
+            </div>
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Age</th>
+                    <th>Occupation</th>
+                    <th>Did they Have Fun With Lucy?</th>  
+                </tr>
+            </thead> 
+                <tbody> </tbody>
+        </table>
+        <button id="a2m">A-M (6)</button>
+        <button id="n2z">N-Z (1)</button>
+        <button id="showAll">Show All (7)</button>
+    </main>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/filterSearch.js"></script>
+    <script type="text/javascript" src="js/filter.js"></script>
+</body>
+
+</html>
